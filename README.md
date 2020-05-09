@@ -8,3 +8,5 @@ This course comprises:
 * Week 2: **Python Libraries and Concepts used in Research**
 * Week 3 & 4: **Case Studies**
 * Week 5: **Statistical Learning**
+
+__________________________________________________________________________________________________________________________________________
