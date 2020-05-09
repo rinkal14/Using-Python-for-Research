@@ -1,0 +1,2 @@
+# Week 2: Python Libraries and Concepts used in Reseach 
+This module includes scope rules and classes, NumPy, matlplotlib and pyplot, randomness and time. In homework week-2, the tools which are mentioned before are used to create a tic-tac-toe simulator and evaluate basic winning strategies. Tic-tac-toe is basically a simple strategy game in which two players take turns placing a mark on a 3x3 board, attempting to make a row, column, or diagonal of three with their mark.  
