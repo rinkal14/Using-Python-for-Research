@@ -1,4 +1,4 @@
-# Using-Python-for-Research
+# Using Python for Research
 HarvardX: PH526x Using Python for Research Course on edX by Harvard University
 
 This repository includes my solutions to the homeworks of each week for the course ['HarvardX: PH526x Using Python for Research Course'](https://www.edx.org/course/using-python-for-research) on edX offered by Harvard University.
