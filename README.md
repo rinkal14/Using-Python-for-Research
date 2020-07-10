@@ -10,5 +10,5 @@ This course comprises:
 * Week 5: **Statistical Learning**
 
 
-Click ['here'](https://github.com/rinkal14/Certificates) to find my certificate achieved for this course and many other courses.
+Click [here](https://github.com/rinkal14/Certificates) to find my certificate achieved for this course and many other courses.
 __________________________________________________________________________________________________________________________________________
